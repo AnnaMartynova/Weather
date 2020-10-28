@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:color="@color/colorPrimary">
+
+    <item android:drawable="@drawable/butten_next_week"
+        tools:ignore="ResourceCycle" />
+
+</ripple>
